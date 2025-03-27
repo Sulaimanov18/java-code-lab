@@ -43,6 +43,7 @@ public class day_1 {
         System.out.println(reverseWithLoop(name3));
         System.out.println(reverseNum(1234));
         System.out.println(reverseNum(987654321));
+
     }
 
     @Test
