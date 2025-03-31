@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d24ec1-5f23-4334-ae2b-833a075e6fed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3/removeSpacesStr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
   "keyToString": {
     "Application.day_1.executor": "Run",
     "Application.isPalindrome.executor": "Run",
+    "Application.removeSpacesStr.executor": "Run",
     "Application.test_1.executor": "Run",
     "JUnit.day_1.executor": "Run",
     "JUnit.day_1.testReverse_withRegularNames.executor": "Run",
@@ -60,7 +60,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test_1">
+  <component name="RunManager" selected="Application.removeSpacesStr">
     <configuration name="day_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_1.day_1" />
       <module name="java-code-lab" />
@@ -80,6 +80,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeSpacesStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_3.removeSpacesStr" />
+      <module name="java-code-lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,29 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day_1.testReverse_withSingleChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-code-lab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day_1" />
-      <option name="MAIN_CLASS_NAME" value="day_1.day_1" />
-      <option name="METHOD_NAME" value="testReverse_withSingleChar" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.removeSpacesStr" />
         <item itemvalue="Application.test_1" />
         <item itemvalue="Application.isPalindrome" />
         <item itemvalue="Application.day_1" />
         <item itemvalue="JUnit.day_1.testReverse_withRegularNames" />
-        <item itemvalue="JUnit.day_1.testReverse_withSingleChar" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742936276014</updated>
       <workItem from="1742936277515" duration="8520000" />
-      <workItem from="1743004108750" duration="8400000" />
+      <workItem from="1743004108750" duration="9290000" />
     </task>
     <servers />
   </component>
