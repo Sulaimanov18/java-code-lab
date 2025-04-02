@@ -38,6 +38,10 @@ public class binary_search {
         return -1;
     }
 
+    private static void newMethod(){
+
+    }
+
 
 
 
