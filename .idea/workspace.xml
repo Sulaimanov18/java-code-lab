@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d24ec1-5f23-4334-ae2b-833a075e6fed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_3/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_4/binary_search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.binary_search.executor": "Run",
     "Application.day_1.executor": "Run",
     "Application.fibonacci.executor": "Run",
     "Application.isPalindrome.executor": "Run",
@@ -61,13 +64,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.fibonacci">
-    <configuration name="day_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_1.day_1" />
+  <component name="RunManager" selected="Application.binary_search">
+    <configuration name="binary_search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_4.binary_search" />
       <module name="java-code-lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_1.*" />
+          <option name="PATTERN" value="day_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.binary_search" />
         <item itemvalue="Application.fibonacci" />
         <item itemvalue="Application.removeSpacesStr" />
         <item itemvalue="Application.test_1" />
         <item itemvalue="Application.isPalindrome" />
-        <item itemvalue="Application.day_1" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742936276014</updated>
       <workItem from="1742936277515" duration="8520000" />
-      <workItem from="1743004108750" duration="9855000" />
+      <workItem from="1743004108750" duration="18492000" />
     </task>
     <servers />
   </component>
