@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6d24ec1-5f23-4334-ae2b-833a075e6fed" name="Changes" comment="">
+    <list default="true" id="d6d24ec1-5f23-4334-ae2b-833a075e6fed" name="Changes" comment="new commits">
       <change beforePath="$PROJECT_DIR$/src/main/java/day_4/binary_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day_4/binary_search.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,12 +149,25 @@
       <option name="presentableId" value="Default" />
       <updated>1742936276014</updated>
       <workItem from="1742936277515" duration="8520000" />
-      <workItem from="1743004108750" duration="19168000" />
+      <workItem from="1743004108750" duration="22998000" />
     </task>
+    <task id="LOCAL-00001" summary="new commits">
+      <option name="closed" value="true" />
+      <created>1743562953320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743562953320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commits" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

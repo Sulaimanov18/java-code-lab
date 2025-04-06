@@ -1,8 +1,6 @@
 package day_4;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 public class binary_search {
 
@@ -68,6 +66,18 @@ public class binary_search {
         }
 
         return b == num;
+    }
+
+    private static Map<Character, Integer> countWords(String str){
+        Map<Character, Integer> countedMap = new HashMap<>();
+
+        for (Character ch : str.toCharArray()) {
+            if(Character.isLetter(ch)){
+                ch = Character.toLowerCase(ch);
+                countedMap.put(ch, countedMap.getOrDefault(ch, 0)+1);
+            }
+        }
+        return countedMap;
     }
 
 }
