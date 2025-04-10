@@ -31,16 +31,4 @@ public class count_words {
         return count;
     }
 
-    private static Map<Character, Integer> countLetters1(String str){
-        Map<Character, Integer> count = new HashMap<>();
-        str = str.toLowerCase();
-
-        for (Character ch : str.toCharArray()){
-            if(Character.isLetter(ch)){
-                count.put(ch, count.getOrDefault(ch,0)+1);
-            }
-        }
-
-        return count;
-    }
 }
