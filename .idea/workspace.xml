@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d24ec1-5f23-4334-ae2b-833a075e6fed" name="Changes" comment="new commits">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_4/count_words.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day_3/removeSpacesStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day_3/removeSpacesStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_4/count_words.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day_4/count_words.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,35 +34,36 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.binary_search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.isPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeSpacesStr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test_1.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.day_1.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.day_1.testReverse_withRegularNames.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.day_1.testReverse_withSingleChar.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.reverse_str_int.testReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/tim.sulaimanov/IdeaProjects/java-code-lab/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMProjectConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.binary_search.executor": "Run",
+    "Application.count_words.executor": "Run",
+    "Application.day_1.executor": "Run",
+    "Application.fibonacci.executor": "Run",
+    "Application.isPalindrome.executor": "Run",
+    "Application.removeSpacesStr.executor": "Run",
+    "Application.test_1.executor": "Run",
+    "JUnit.day_1.executor": "Run",
+    "JUnit.day_1.testReverse_withRegularNames.executor": "Run",
+    "JUnit.day_1.testReverse_withSingleChar.executor": "Run",
+    "JUnit.reverse_str_int.testReverseString.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/tim.sulaimanov/IdeaProjects/java-code-lab/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "ml.llm.LLMProjectConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.count_words">
     <configuration name="binary_search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_4.binary_search" />
@@ -151,7 +152,7 @@
       <updated>1742936276014</updated>
       <workItem from="1742936277515" duration="8520000" />
       <workItem from="1743004108750" duration="22998000" />
-      <workItem from="1743916225762" duration="623000" />
+      <workItem from="1743916225762" duration="1568000" />
     </task>
     <task id="LOCAL-00001" summary="new commits">
       <option name="closed" value="true" />
