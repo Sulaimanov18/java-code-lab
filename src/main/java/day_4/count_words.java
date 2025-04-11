@@ -14,6 +14,11 @@ public class count_words {
         System.out.println(countLetters("a12a"));
         System.out.println(countLetters("*&*@"));
         System.out.println(countLetters("@#$@"));
+        System.out.println(countLetter("new"));
+        System.out.println(countLetter(""));
+        System.out.println(countLetter("123"));
+        System.out.println(countLetter("n@#$ew"));
+        System.out.println(countLetter("!@#!@"));
 
     }
 
@@ -30,5 +35,32 @@ public class count_words {
 
         return count;
     }
+
+
+
+
+    private static Map<Character, Integer> countLetter(String str){
+        Map<Character, Integer> map = new HashMap<>();
+
+        for(Character ch : str.toCharArray()){
+            if(Character.isLetter(ch)){
+                map.put(ch, map.getOrDefault(ch, 0)+1);
+            }
+        }
+
+
+        return map;
+    }
+
+
+
+
+
+
+
+
+
+
+
 
 }
