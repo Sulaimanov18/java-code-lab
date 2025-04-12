@@ -38,12 +38,25 @@ public class MyLinkedList {
         }
         System.out.println("null");
     }
-    public void removeLastElement(){
-        Node current = head;
-        if(current.next != null){
-
+    public void removeLastElement() {
+        if (head == null) {
+            // Пустой список — нечего удалять
+            return;
         }
+
+        if (head.next == null) {
+            // В списке только один элемент — удаляем голову
+            head = null;
+            return;
+        }
+
+        Node current = head;
+        while (current.next.next != null) {
+            current = current.next;  // Идем до предпоследнего элемента
+        }
+        current.next = null;  // Удаляем последний элемент
     }
+
 
     // Тестируем в main
     public static void main(String[] args) {
