@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d24ec1-5f23-4334-ae2b-833a075e6fed" name="Changes" comment="new commits">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_6/array_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_6/test_arrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_7/calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_7/test_calc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
     "Application.removeSpacesStr.executor": "Run",
     "Application.test_1.executor": "Run",
     "Application.test_arrayList.executor": "Run",
+    "Application.test_calc.executor": "Run",
     "JUnit.day_1.executor": "Run",
     "JUnit.day_1.testReverse_withRegularNames.executor": "Run",
     "JUnit.day_1.testReverse_withSingleChar.executor": "Run",
@@ -67,7 +68,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test_arrayList">
+  <component name="RunManager" selected="Application.test_calc">
     <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_5_LinkedList.MyLinkedList" />
       <module name="java-code-lab" />
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_3.fibonacci" />
+    <configuration name="test_arrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_6.test_arrayList" />
       <module name="java-code-lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_3.*" />
+          <option name="PATTERN" value="day_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_arrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_6.test_arrayList" />
+    <configuration name="test_calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_7.test_calc" />
       <module name="java-code-lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_6.*" />
+          <option name="PATTERN" value="day_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test_calc" />
         <item itemvalue="Application.test_arrayList" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.count_words" />
         <item itemvalue="Application.binary_search" />
-        <item itemvalue="Application.fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +163,7 @@
       <workItem from="1742936277515" duration="8520000" />
       <workItem from="1743004108750" duration="22998000" />
       <workItem from="1743916225762" duration="12435000" />
-      <workItem from="1744659725320" duration="1173000" />
+      <workItem from="1744659725320" duration="6118000" />
     </task>
     <task id="LOCAL-00001" summary="new commits">
       <option name="closed" value="true" />
@@ -181,21 +182,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commits" />
     <option name="LAST_COMMIT_MESSAGE" value="new commits" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/day_6/test_arrayList.java</url>
-          <line>4</line>
-          <properties class="day_6.test_arrayList" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
