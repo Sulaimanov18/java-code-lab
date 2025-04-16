@@ -16,6 +16,9 @@ public class calculator {
         this.total -=num;
     }
 
+    public void multiply(int num) {
+        this.total *= num;
+    }
 
 
     public void printTotal(){
