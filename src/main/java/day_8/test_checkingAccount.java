@@ -6,6 +6,7 @@ public class test_checkingAccount {
         checkingAccount account = new checkingAccount(0);
         account.add(11);
         account.add(11);
+
         System.out.println(account.getBalance());
 
     }
