@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d24ec1-5f23-4334-ae2b-833a075e6fed" name="Changes" comment="new commits">
-      <change beforePath="$PROJECT_DIR$/src/main/java/day_8/test_checkingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day_8/test_checkingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test_checkingAccount">
+  <component name="RunManager" selected="Application.test_1">
     <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_5_LinkedList.MyLinkedList" />
       <module name="java-code-lab" />
@@ -81,15 +81,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_4.count_words" />
+    <configuration name="test_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_1" />
       <module name="java-code-lab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test_1" />
         <item itemvalue="Application.test_checkingAccount" />
         <item itemvalue="Application.test_calc" />
         <item itemvalue="Application.test_arrayList" />
         <item itemvalue="Application.MyLinkedList" />
-        <item itemvalue="Application.count_words" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +156,7 @@
       <workItem from="1742936277515" duration="8520000" />
       <workItem from="1743004108750" duration="22998000" />
       <workItem from="1743916225762" duration="12435000" />
-      <workItem from="1744659725320" duration="9582000" />
+      <workItem from="1744659725320" duration="12841000" />
     </task>
     <task id="LOCAL-00001" summary="new commits">
       <option name="closed" value="true" />

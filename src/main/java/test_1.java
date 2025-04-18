@@ -1,3 +1,5 @@
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 public class test_1 {
@@ -13,7 +15,7 @@ public class test_1 {
         int age = scanner.nextInt();
         System.out.println("Your full name is: " + firstname +" " + lastname);
         System.out.println(checkAge(age) ? "Your age is legal" : "Your age is illegal");
-
+        System.out.println(countLetters("Timur"));
         }
 
     private static boolean checkAge(int a){
@@ -24,8 +26,15 @@ public class test_1 {
     }
 
 
-    public static void main(){
-
+    private static Map<Character, Integer> countLetters(String word){
+        Map<Character, Integer> map = new HashMap<>();
+        for (Character ch : word.toCharArray()){
+            if(Character.isLetter(ch)){
+                map.put(ch, map.getOrDefault(ch, 0)+1);
+            }
+        }
+        return map;
     }
 
 }
+
