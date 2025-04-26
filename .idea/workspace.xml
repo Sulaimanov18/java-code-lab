@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d24ec1-5f23-4334-ae2b-833a075e6fed" name="Changes" comment="new commits">
-      <change beforePath="$PROJECT_DIR$/src/main/java/day_9/test_binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day_9/test_binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methods/Fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +158,7 @@
       <workItem from="1742936277515" duration="8520000" />
       <workItem from="1743004108750" duration="22998000" />
       <workItem from="1743916225762" duration="12435000" />
-      <workItem from="1744659725320" duration="14722000" />
+      <workItem from="1744659725320" duration="20555000" />
     </task>
     <task id="LOCAL-00001" summary="new commits">
       <option name="closed" value="true" />
