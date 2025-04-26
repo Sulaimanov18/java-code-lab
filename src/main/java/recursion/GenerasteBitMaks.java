@@ -1,4 +1,4 @@
-package methods;
+package recursion;
 
 import java.util.Scanner;
 
