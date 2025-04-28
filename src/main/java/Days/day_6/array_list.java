@@ -1,4 +1,4 @@
-package day_6;
+package Days.day_6;
 
 public class array_list {
     // Ссылка на первый элемент (узел) списка

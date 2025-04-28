@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d24ec1-5f23-4334-ae2b-833a075e6fed" name="Changes" comment="new commits">
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/Simple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_1/day_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_1/day_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_10/list_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_10/list_example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_2/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_2/isPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_3/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_3/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_3/removeSpacesStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_3/removeSpacesStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_4/binary_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_4/binary_search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_4/count_words.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_4/count_words.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_5_LinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_5_LinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_6/array_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_6/array_list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_6/test_arrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_6/test_arrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_7/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_7/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_7/test_calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_7/test_calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_8/checkingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_8/checkingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_8/test_checkingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_8/test_checkingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_9/binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_9/binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_9/body_binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_9/body_binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_9/test_binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Days/day_9/test_binary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +177,7 @@
       <workItem from="1742936277515" duration="8520000" />
       <workItem from="1743004108750" duration="22998000" />
       <workItem from="1743916225762" duration="12435000" />
-      <workItem from="1744659725320" duration="22240000" />
+      <workItem from="1744659725320" duration="22397000" />
     </task>
     <task id="LOCAL-00001" summary="new commits">
       <option name="closed" value="true" />

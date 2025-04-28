@@ -1,4 +1,4 @@
-package day_8;
+package Days.day_8;
 
 public class checkingAccount {
     private double balance;

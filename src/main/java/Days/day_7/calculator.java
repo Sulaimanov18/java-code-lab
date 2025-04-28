@@ -1,4 +1,4 @@
-package day_7;
+package Days.day_7;
 
 public class calculator {
 

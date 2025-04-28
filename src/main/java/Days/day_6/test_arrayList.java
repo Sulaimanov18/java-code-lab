@@ -1,4 +1,4 @@
-package day_6;
+package Days.day_6;
 
 public class test_arrayList {
 

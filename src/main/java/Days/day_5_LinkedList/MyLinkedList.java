@@ -1,4 +1,4 @@
-package day_5_LinkedList;
+package Days.day_5_LinkedList;
 
 public class MyLinkedList {
 

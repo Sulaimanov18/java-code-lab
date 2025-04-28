@@ -1,4 +1,4 @@
-package day_3;
+package Days.day_3;
 
 public class fibonacci {
     public static void main(String[] args) {

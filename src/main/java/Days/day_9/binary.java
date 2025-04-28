@@ -1,4 +1,4 @@
-package day_9;
+package Days.day_9;
 
 public interface binary {
 

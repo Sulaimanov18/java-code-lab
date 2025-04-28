@@ -1,4 +1,4 @@
-package day_2;
+package Days.day_2;
 
 /**
  * Utility class for common string-related operations.
